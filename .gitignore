@@ -2,4 +2,7 @@
 *.pkl
 *.npy
 *.h5
+*.pth
+models/
+data/
 .ipynb_checkpoints
